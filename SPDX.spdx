@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+    PackageName: CLEAR_spot
+    PackageHomePage: https://github.com/MITLL-CLEAR/CLEAR_spot 
+    PackageOriginator: MIT Lincoln Laboratory
+    PackageCopyrightText: 2023 Massachusetts Institute of Technology
+    PackageLicenseDeclared: MIT
